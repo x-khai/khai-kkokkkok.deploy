@@ -5,6 +5,9 @@
 > **꼭!! 꼭!!** 필요한 기능들을 모아~~ 모아~~
 
 
+<!-- kkokkkok-release:start (srcs/release.sh 가 배포할 때 이 사이를 바꿈) -->
+**최신 버전 0.0.4** (2026-11-25) · [내려받기](https://github.com/x-khai/khai-kkokkkok.deploy/releases/latest) · [지난 버전들](https://github.com/x-khai/khai-kkokkkok.deploy/releases)
+
 0.0.3 을 쓰고 있다면 트레이 메뉴 "설정 > 업데이트 확인…" 에서 바로 설치할 수 있어요.
 
 ## 일정 알림: 여러 개, 직접 설정, 꼭 봐야 하는 알림은 팝업
@@ -51,3 +54,4 @@ gitlab.com 이나 회사 GitLab 저장소로도 동기화할 수 있어요. 주�
 - 메모 관리자 달력이 작을 때 일정이 안 보이던 것 (이제 색 점)
 - 동기화 토큰이 틀렸을 때 원인 안내가 안 나오던 것
 - 종일 일정 알림은 이제 그날 0시 기준(ics 규칙)이에요. 예전에 넣은 종일 일정 알림은 시각을 한 번 확인해 주세요.
+<!-- kkokkkok-release:end -->
