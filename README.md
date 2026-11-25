@@ -3,17 +3,31 @@
 **꼭!!**  지정된 프로그램을 지정된 시간에 빽그라운드로 실행하기!!  
 **꼭!! 꼭!!** 필요한 기능들을 모아~모아~  
 
-<img width="591" height="329" alt="image" src="https://github.com/user-attachments/assets/b3039d6b-9db6-43f6-9d79-9ea509b53ade" />
-<img width="819" height="673" alt="image" src="https://github.com/user-attachments/assets/10a80858-e811-4b17-a5b9-5132df279486" />
-<img width="391" height="295" alt="image" src="https://github.com/user-attachments/assets/6f517e76-c40f-4947-b46a-7bf274fa8709" />
-<img width="517" height="178" alt="image" src="https://github.com/user-attachments/assets/4ce7d67a-9d9e-4369-9e4b-88a3c9e39302" />
-<img width="1028" height="416" alt="image" src="https://github.com/user-attachments/assets/6e139271-359b-416c-bd7b-89e6d9473167" />
+## 달력
+ics 일정(내 일정 + 구독 주소), 여러 달력(중요·개인·업무 …), 바탕화면 달력·트레이 달력, 알림, 일정·날짜에서 메모 만들기
 
+![바탕화면 달력](screenshots/0.0.3/calendar-widget.png)
 
-<2026-11-25>
+![메모 관리자의 달력 탭](screenshots/0.0.3/calendar-manager.png)
 
-* 이미지 미리보기와 클립보드 복사도 추가 되었어요.!!
-<img width="1284" height="866" alt="image" src="https://github.com/user-attachments/assets/ccfe5102-79e1-426d-9458-d96d3d5aaa98" />
+## 메모 도킹
+위·아래로 붙이면 끝선이 맞고, 맨 위 메모를 끌면 아래 메모들이 같이 움직입니다. 중간 메모를 끌면 그 메모만 떨어져 나와요.
+메모 제목은 항상 한 줄로, 접힌 메모의 긴 제목은 클릭해서 펼칩니다.
 
-* mermaid 파서가 내장 되었어요!!
-<img width="305" height="190" alt="image" src="https://github.com/user-attachments/assets/22c48ad2-d2e5-4d53-90d8-f6d37e5fa688" />
+![메모 도킹](screenshots/0.0.3/note-docking.png)
+
+## 메모 줄바꿈
+머리줄의 "줄바꿈" 체크: 켜면 창 폭에 맞춰 자동 줄바꿈, 끄면 직접 넣은 줄바꿈만 쓰고 긴 줄은 가로 스크롤.
+
+![줄바꿈 켬·끔](screenshots/0.0.3/note-wrap.png)
+
+## 작업 상태 기억
+트레이에서 직접 중지한 작업은 꼭꼭을 다시 켜도 시작하지 않습니다 (직접 시작한 작업은 다시 시작).
+
+![작업 상태 기억](screenshots/0.0.3/task-state.png)
+
+## 업데이트 확인·설치
+이번 버전부터 새 버전이 나오면 꼭꼭이 알려 주고, 트레이 메뉴에서 바로 설치할 수 있어요. ("설정 > 업데이트 확인…")
+이번 0.0.3 은 한 번만 직접 받아서 설치해 주세요.
+
+![업데이트](uscreenshots/0.0.3/pdate.png)
