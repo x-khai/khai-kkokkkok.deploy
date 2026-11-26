@@ -5,7 +5,7 @@
 > **꼭!! 꼭!!** 필요한 기능들을 모아~~ 모아~~
 
 
-**최신 버전 0.0.11** (2026-11-26) · [내려받기](https://github.com/x-khai/kkokkkok/releases/latest) · [버전별 바뀐 점](https://github.com/x-khai/kkokkkok/releases)
+**최신 버전 0.0.12** (2026-11-26) · [내려받기](https://github.com/x-khai/kkokkkok/releases/latest) · [버전별 바뀐 점](https://github.com/x-khai/kkokkkok/releases)
 
 꼭꼭은 Windows 트레이에 조용히 앉아서, 매일 손으로 띄우던 프로그램을 대신 켜 두고,
 떠오른 생각은 포스트잇 메모로, 챙겨야 할 일정은 달력으로 붙잡아 두는 작은 도우미예요.
@@ -76,5 +76,6 @@
 | `Ctrl+Alt+A` / `W` / `F` / `S` | 영역 / 창 / 전체 / 스크롤 캡처 → 메모에 첨부 |
 
 ## 내 데이터는 내 PC 에
-- 설정은 꼭꼭 폴더의 `config.json`, 메모와 달력은 `문서\꼭꼭 메모` 에 보통 파일(.md · .ics)로 저장돼요 — 꼭꼭이 없어도 열어 볼 수 있어요
+- 설정은 꼭꼭 폴더의 `config.json`, 이 PC 의 상태(구독 주소 · 알람 상태 · 토큰 등)는 꼭꼭 폴더의 `data\` 한곳에 — 폴더째 옮기면 그대로 따라가요
+- 메모 · 달력 · 알람은 `문서\꼭꼭 메모` 에 보통 파일(.md · .ics · .json)로 저장돼요 — 꼭꼭이 없어도 열어 볼 수 있어요
 - 동기화를 켜기 전에는 어디로도 보내지 않아요. 토큰은 Windows 가 이 계정으로만 풀 수 있게 암호화해 둬요
