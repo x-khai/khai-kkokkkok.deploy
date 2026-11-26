@@ -5,7 +5,7 @@
 > **꼭!! 꼭!!** 필요한 기능들을 모아~~ 모아~~
 
 
-**최신 버전 0.0.8.1** (2026-11-26) · [내려받기](https://github.com/x-khai/khai-kkokkkok.deploy/releases/latest) · [버전별 바뀐 점](https://github.com/x-khai/khai-kkokkkok.deploy/releases)
+**최신 버전 0.0.9.1** (2026-11-26) · [내려받기](https://github.com/x-khai/khai-kkokkkok.deploy/releases/latest) · [버전별 바뀐 점](https://github.com/x-khai/khai-kkokkkok.deploy/releases)
 
 꼭꼭은 Windows 트레이에 조용히 앉아서, 매일 손으로 띄우던 프로그램을 대신 켜 두고,
 떠오른 생각은 포스트잇 메모로, 챙겨야 할 일정은 달력으로 붙잡아 두는 작은 도우미예요.
@@ -40,7 +40,7 @@
 ### 3. 달력 · 알림
 - Outlook·Google 과 같은 **ics** 형식으로 저장하고, 회사·공유 달력은 ics 주소로 **구독**해서 함께 보기
 - 중요·개인·업무처럼 **달력을 여러 개**, 월 · 년 · 전체 목록으로 한눈에
-- 일정마다 **알림 여러 개** — "1일 전 18:00" 처럼 시각까지. 꼭 봐야 하는 알림은 **확인할 때까지 떠 있는 팝업**으로
+- 일정마다 **알림 여러 개** — "1일 전 18:00" 처럼 시각까지. 꼭 봐야 하는 알림은 **확인할 때까지 떠 있는 팝업**으로, 나머지는 원하는 초만큼 잠깐
 - 일정에서 바로 메모를 만들고, 메모에서 바로 그 일정으로
 
 ![달력](screenshots/0.0.7/calendar-year.png)
