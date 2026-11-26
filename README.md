@@ -5,7 +5,7 @@
 > **꼭!! 꼭!!** 필요한 기능들을 모아~~ 모아~~
 
 
-**최신 버전 0.0.7** (2026-11-26) · [내려받기](https://github.com/x-khai/khai-kkokkkok.deploy/releases/latest) · [버전별 바뀐 점](https://github.com/x-khai/khai-kkokkkok.deploy/releases)
+**최신 버전 0.0.8** (2026-11-26) · [내려받기](https://github.com/x-khai/khai-kkokkkok.deploy/releases/latest) · [버전별 바뀐 점](https://github.com/x-khai/khai-kkokkkok.deploy/releases)
 
 꼭꼭은 Windows 트레이에 조용히 앉아서, 매일 손으로 띄우던 프로그램을 대신 켜 두고,
 떠오른 생각은 포스트잇 메모로, 챙겨야 할 일정은 달력으로 붙잡아 두는 작은 도우미예요.
